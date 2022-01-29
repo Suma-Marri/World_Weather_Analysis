@@ -1,0 +1,187 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+4,Elmira,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+11,Katsuura,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+13,Andenes,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+16,Lagoa,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+19,Mataura,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+22,Aswan,EG,47.88,clear sky,24.0934,32.907,Nuba Nile
+25,Punta Arenas,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+28,Grindavik,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+32,Hilo,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+40,Kapaa,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+46,Fredericksburg,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+47,Wexford,IE,43.57,broken clouds,52.3342,-6.4575,Talbot Hotel Wexford
+49,Ormond Beach,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+50,Rikitea,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+51,Ancud,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+52,Ishige,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+56,Bluff,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+57,Vieques,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+58,Fairbanks,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+60,Teahupoo,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+65,Kamaishi,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+66,Taltal,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+68,Bethel,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+80,Tooele,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+81,Yomitan,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+83,Atuona,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+85,Tono,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+86,Llanes,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+89,Ribnitz-Damgarten,DE,43.11,overcast clouds,54.25,12.4667,Perle am Bodden
+91,Westport,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+99,Half Moon Bay,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+100,Dunedin,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+102,Baghdad,IQ,39.11,clear sky,33.3406,44.4009,Baghdad Hotel
+103,Ribeira Grande,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+110,Kahului,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+113,Fremont,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+115,Dingle,IE,43.57,broken clouds,52.3342,-6.4575,Talbot Hotel Wexford
+118,Patillas,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+119,Wolfenbuttel,DE,43.11,overcast clouds,54.25,12.4667,Perle am Bodden
+120,Palencia,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+122,Saint George,US,52.63,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+123,Virginia Beach,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+124,Kodiak,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+125,Saraland,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+131,Okmulgee,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+132,Barrow,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+133,Ordu,TR,25.3,light snow,40.9086,37.6845,Orencik Koyu Muhtarligi
+134,Lebu,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+135,Vaitape,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+136,Carlisle,US,29.84,broken clouds,40.2015,-77.1889,Fairfield Inn & Suites by Marriott Carlisle
+138,Lompoc,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+141,Lulea,SE,23.07,overcast clouds,65.5842,22.1547,Comfort Hotel Arctic
+155,Marathon,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+157,Castro,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+160,Codrington,US,29.84,broken clouds,40.2015,-77.1889,Fairfield Inn & Suites by Marriott Carlisle
+161,Coihaique,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+165,Coquimbo,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+173,Lerwick,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+178,Rockport,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+182,Vila Franca Do Campo,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+187,Tuatapere,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+188,Tallahassee,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+193,Berlevag,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+194,Pacific Grove,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+205,Purranque,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+211,Hasaki,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+217,Riverton,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+218,Woodward,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+225,Superior,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+227,Huambo,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+230,Sakaiminato,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+232,Chissamba,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+238,Falmouth,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+243,Sumbe,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+245,Nome,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+246,Lata,PT,49.82,clear sky,40.1629,-8.3327,Casa Maquia
+248,Asau,RO,22.28,overcast clouds,46.4333,26.4,Casa Mika Ciobanus
+252,Camacha,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+259,Antrim,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+261,Kaeo,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+263,Ballina,IE,43.57,broken clouds,52.3342,-6.4575,Talbot Hotel Wexford
+269,Waipawa,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+272,Natchitoches,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+276,Auki,PT,49.82,clear sky,40.1629,-8.3327,Casa Maquia
+277,Turka,UA,28.8,light snow,49.1541,23.0297,Мотель
+285,Peniche,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+292,Avila,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+293,Ahipara,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+297,Tobermory,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+299,Hamilton,US,52.63,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+300,Husavik,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+303,Te Anau,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+306,Yuma,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+309,Santa Eulalia Del Rio,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+312,Oksfjord,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+320,Malanje,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+321,Skelleftea,SE,23.07,overcast clouds,65.5842,22.1547,Comfort Hotel Arctic
+327,Kaitangata,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+329,Vadso,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+333,Rawah,IQ,39.11,clear sky,33.3406,44.4009,Baghdad Hotel
+334,Asyut,EG,47.88,clear sky,24.0934,32.907,Nuba Nile
+349,Redmond,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+357,Raudeberg,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+365,Great Yarmouth,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+366,Vardo,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+367,Saint-Francois,FR,24.67,fog,46.4154,3.9054,Manoir Du Bonheur
+368,Longmont,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+369,College,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+377,Adana,TR,25.3,light snow,40.9086,37.6845,Orencik Koyu Muhtarligi
+379,Honiara,PT,49.82,clear sky,40.1629,-8.3327,Casa Maquia
+383,Namibe,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+384,Gat,IL,50.4,clear sky,31.61,34.7642,OlusHome
+386,Puerto Del Rosario,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+390,Westport,IE,43.57,broken clouds,52.3342,-6.4575,Talbot Hotel Wexford
+391,Kushiro,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+392,Vestmannaeyjar,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+398,Coos Bay,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+404,Harrisburg,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+405,Burley,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+412,Arrifes,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+415,Hun,IL,50.4,clear sky,31.61,34.7642,OlusHome
+416,Misratah,IL,50.4,clear sky,31.61,34.7642,OlusHome
+420,Haapiti,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+421,Vodyane,UA,28.8,light snow,49.1541,23.0297,Мотель
+422,Ponta Do Sol,PT,58.62,overcast clouds,39.05,-27.9833,Casa Das Faias
+426,Warrington,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+429,Brae,GB,44.6,scattered clouds,60.1545,-1.1494,The Lerwick Hotel
+431,Sitka,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+435,Hofn,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+441,Buckeye,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+444,Faanui,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+469,Arlit,NE,58.33,scattered clouds,18.7369,7.3853,Case de Passage De la Prefecture
+471,Tocopilla,CL,48.31,clear sky,-53.15,-70.9167,Hotel Hain
+476,Zolochiv,UA,28.8,light snow,49.1541,23.0297,Мотель
+482,Baker City,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+486,Porto Empedocle,IT,39.9,clear sky,37.2934,13.5264,Hotel dei Pini
+495,Sorland,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+498,Cervo,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+502,Misawa,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+506,Seoul,KR,27.91,few clouds,37.5683,126.9778,LOTTE Hotel Seoul
+509,Izumo,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+510,Hirado,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+518,Missoula,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+532,Eureka,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+533,Olafsvik,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+534,Horasan,TR,25.3,light snow,40.9086,37.6845,Orencik Koyu Muhtarligi
+539,Arco,IT,39.9,clear sky,37.2934,13.5264,Hotel dei Pini
+543,Kenai,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+547,Skagastrond,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+557,Shimoda,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+563,Taylorville,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+570,Moses Lake,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+572,Plopeni,RO,29.21,overcast clouds,45.0667,25.9833,Hostel Horia
+574,East Wenatchee Bench,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+575,Aranda De Duero,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
+576,Bolungarvik,IS,30.67,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+585,Waddan,IL,50.4,clear sky,31.61,34.7642,OlusHome
+589,Ahuimanu,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+596,Radolfzell,DE,43.11,overcast clouds,54.25,12.4667,Perle am Bodden
+598,Jalu,IL,50.4,clear sky,31.61,34.7642,OlusHome
+601,Licata,IT,39.9,clear sky,37.2934,13.5264,Hotel dei Pini
+606,Havoysund,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+607,Waiouru,NZ,54.81,overcast clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+613,Gushikawa,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+622,Steenbergen,NL,39.02,mist,51.5842,4.3194,Bistro-Bar DOK
+623,Klaksvik,FO,41.92,scattered clouds,62.2266,-6.589,Airbnb rooms
+624,Excelsior Springs,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+626,Rokytne,UA,28.8,light snow,49.1541,23.0297,Мотель
+631,Blaj,RO,29.21,overcast clouds,45.0667,25.9833,Hostel Horia
+632,Tarhunah,IL,50.4,clear sky,31.61,34.7642,OlusHome
+634,Brandon,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+638,Hirara,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+649,Abu Kamal,SY,46.47,few clouds,34.4506,40.9171,محطة التلفاز
+654,Esna,EG,47.88,clear sky,24.0934,32.907,Nuba Nile
+658,Nantucket,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+659,Clearwater,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+665,Hudiksvall,SE,23.07,overcast clouds,65.5842,22.1547,Comfort Hotel Arctic
+666,Itoman,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+674,Bardiyah,IL,50.4,clear sky,31.61,34.7642,OlusHome
+675,Bodo,NO,28.38,overcast clouds,69.3143,16.1194,Hotell Marena
+676,Tautira,NZ,54.48,overcast clouds,-46.1927,168.8643,Ellie's Villa
+678,Dickinson,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+682,Toppenish,US,23.0,few clouds,42.0898,-76.8077,"Holiday Inn Elmira - Horseheads, an IHG Hotel"
+696,Camabatela,AO,59.79,overcast clouds,-12.7761,15.7392,SiSHotel
+699,Sakata,JP,44.19,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+701,Amposta,ES,46.89,clear sky,43.4198,-4.7549,Hotel La Paz
